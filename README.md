@@ -1,5 +1,3 @@
-It is an mood based weather app where we can input our thoughts based on mood in your desired date
-Detailed Description....
 A personal mood journal web application that integrates real-time weather data using the openweathermap API. This application allows users to log their daily mood and can also input their thoughts with an emoji and their desired dates
 Features based on goals
 
@@ -20,11 +18,13 @@ Technologies Used
 - Local Storage for data persistence
 
 If you want to run it create a react application using create-react-app mood-journal
-you can also clone the repository
-after cloning use the command npm install to install dependencies which are directly stored in the node modules
-make sure to change the API key to your key to run the application smoothly
-After doing this start the development server by running the command npm start.
-you can start a new entry by selecting the emoji and your thoughts.Then it can be viewed in all entries and calendar.
+- you can also clone the repository
+- after cloning use the command npm install to install dependencies which are directly stored in the node modules
+- make sure to change the API key to your key to run the application smoothly
+- After doing this start the development server by running the command npm start.
+- you can start a new entry by selecting the emoji and your thoughts.Then it can be viewed in all entries and calendar.
+
+  
 these are the images of my project........
 ![Screenshot 2025-04-22 210016](https://github.com/user-attachments/assets/032909c0-0360-48bb-9fa0-7f2e9d93b5cf)
 ![Screenshot 2025-04-22 210121](https://github.com/user-attachments/assets/bfff294a-5998-4dfe-8ab3-e5b9b52f55b8)

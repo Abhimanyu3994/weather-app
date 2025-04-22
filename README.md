@@ -1,4 +1,5 @@
-A personal mood journal web application that integrates real-time weather data using the openweathermap API. This application allows users to log their daily mood and can also input their thoughts with an emoji and their desired dates
+A personal mood journal web application that integrates real-time weather data using the openweathermap API. This application allows users to log their daily mood and can also input their thoughts with an emoji and their desired dates.
+
 Features based on goals
 
 - Daily mood selection with 5 different mood options

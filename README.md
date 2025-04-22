@@ -26,6 +26,9 @@ make sure to change the API key to your key to run the application smoothly
 After doing this start the development server by running the command npm start.
 you can start a new entry by selecting the emoji and your thoughts.Then it can be viewed in all entries and calendar.
 these are the images of my project........
-![Uploading Screenshot 2025-04-22 210143.jpg…]()
-![Screenshot 2025-04-22 210121](https://github.com/user-attachments/assets/9268d983-b8c7-4216-a1e1-b777ff398028)
-![Screenshot 2025-04-22 210016](https://github.com/user-attachments/assets/fc6c989d-43fe-4fe6-a558-dc404ac9f66e)
+![Screenshot 2025-04-22 210220](https://github.com/user-attachments/assets/ee6a3877-4aa8-45b9-91d0-af2975cc81f0)
+![Screenshot 2025-04-22 210204](https://github.com/user-attachments/assets/824cce13-a1a8-4219-bf99-60a620e66faf)
+![Screenshot 2025-04-22 210143](https://github.com/user-attachments/assets/ea99e5a6-e6f8-4190-9b81-9d07dfdfb503)
+![Screenshot 2025-04-22 210121](https://github.com/user-attachments/assets/bfff294a-5998-4dfe-8ab3-e5b9b52f55b8)
+![Screenshot 2025-04-22 210016](https://github.com/user-attachments/assets/032909c0-0360-48bb-9fa0-7f2e9d93b5cf)
+
